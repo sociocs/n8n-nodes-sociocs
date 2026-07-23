@@ -1,0 +1,20 @@
+{
+	"node": "n8n-nodes-sociocs",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Communication"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.sociocs.com/api/auhentication/"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://docs.sociocs.com/api/introduction/"
+			}
+		]
+	}
+}
