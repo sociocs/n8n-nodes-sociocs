@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-sociocs",
-	"version": "0.1.0",
+	"version": "0.2.0-0",
 	"description": "n8n community node to send and manage SMS and WhatsApp messages with the Sociocs API",
 	"license": "MIT",
 	"homepage": "",
