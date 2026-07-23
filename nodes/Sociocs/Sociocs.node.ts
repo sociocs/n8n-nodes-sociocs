@@ -207,7 +207,7 @@ export class Sociocs implements INodeType {
 	description: INodeTypeDescription = {
 		displayName: 'Sociocs',
 		name: 'sociocs',
-		icon: { light: 'file:sociocs.svg', dark: 'file:sociocs.dark.svg' },
+		icon: { light: 'file:sociocs.dark.svg', dark: 'file:sociocs.light.svg' },
 		group: ['transform'],
 		version: 1,
 		subtitle: '={{$parameter["operation"] + ": " + $parameter["resource"]}}',
